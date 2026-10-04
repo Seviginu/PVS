@@ -1,0 +1,16 @@
+.DS_Store
+**/Debug/
+**/Release/
+**/.metadata/
+**/.osx.project
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+*.pdf
+*.tex
